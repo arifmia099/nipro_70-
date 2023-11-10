@@ -1,0 +1,27 @@
+
+pop: 400,500,700
+
+rob: 400
+
+font-family
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+color
+
+black #000000
+orang #FD511A
+green #21B573
+
+
+text
+align
+margin/padding
+
+xxx/xl/lg    md   sm/col
+
+h1	48		40
+
+xxx/xl/lg    md   sm/col
+
+pa 100-120	80-100 	50-70
